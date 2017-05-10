@@ -1,16 +1,10 @@
 ﻿using MerchantGuideToGalaxy.Contexts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MerchantGuideToGalaxy.Parsers
 {
-    class QuestionParser : Parsers.Parser
+    class QuestionParser : Parser
     {
-        public QuestionParser(Context ctx)
-            : base(ctx)
+        public QuestionParser(Context ctx) : base(ctx)
         {
         }
 

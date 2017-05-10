@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using MerchantGuideToGalaxy.Contexts;
 using MerchantGuideToGalaxy.Romans;
 
 namespace MerchantGuideToGalaxy.Parsers
 {
-    internal class PrimitiveParser : Parsers.Parser
+    internal class PrimitiveParser : Parser
     {
 
         public PrimitiveParser(Context ctx) : base(ctx)
