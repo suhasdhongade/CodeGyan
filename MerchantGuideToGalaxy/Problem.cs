@@ -35,6 +35,7 @@ namespace MerchantGuideToGalaxy
             {
                 new PrimitiveSolver(ctx),
                 new UnitSolver(ctx)
+
             };
             return ctx;
         }
