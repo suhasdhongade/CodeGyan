@@ -10,6 +10,7 @@ namespace MerchantGuideToGalaxy
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

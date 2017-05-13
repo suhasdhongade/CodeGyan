@@ -1,1 +1,2 @@
 C:\Users\suhas.dhongade\Git Repository\MerchantGuideToGalaxy\MerchantGuideToGalaxy\bin\Debug\MerchantGuideToGalaxy.exe.config
+C:\Users\Suhas\Documents\My Latest Git Repositories\CodeGyan\MerchantGuideToGalaxy\bin\Debug\MerchantGuideToGalaxy.exe.config
